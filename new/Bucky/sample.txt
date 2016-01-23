@@ -1,0 +1,2 @@
+this is sample text file
+tutorial to read and write file
